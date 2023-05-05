@@ -24,7 +24,7 @@
 * spring.datasource.url=jdbc:mysql://localhost:3306/sm_platform
 * spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 * spring.datasource.username=root
-* spring.datasource.password=Subham@1264
+* spring.datasource.password=****@1264
 
 
 
